@@ -10,7 +10,7 @@ I built an open-frame water-cooling wall desktop on a Thermaltake Core P3 case, 
 
 I use my computer for everyday work.  I am not a game player and  I do not need much computing power. Therefore, I used some parts of the old Hackintosh/Windows desktop (dualbooting) to upgrade the system to Ventura and the bootloader to OpenCore.
 
-Windows were installed on the first partition of the disk, and MacOS was installed on the second partition according to Dortania's guide.
+Windows were installed on the first partition of the disk, and MacOS was installed on the second partition according to Dortania's guide [Dortania](https://dortania.github.io/OpenCore-Install-Guide/)
 
 I used EFI and settings were based on ideas of DERBALKON project for MSI B360M  (please refer to the details: https://github.com/derbalkon/B360M-CoffeeLake-Hackintosh THANK YOU!)
 
@@ -59,6 +59,6 @@ There are no DRM problems
 ## Credit
 
 - **Acidanthera**'s [OpenCore Respository](https://github.com/acidanthera/OpenCorePkg)
-- **Derbalkon** [B360M-CoffeeLake-Hackintosh](https://github.com/derbalkon/B360M-CoffeeLake-Hackintosh))
+- **Derbalkon** [B360M-CoffeeLake-Hackintosh](https://github.com/derbalkon/B360M-CoffeeLake-Hackintosh)
 - **Installation Guide** from [Dortania](https://dortania.github.io/OpenCore-Install-Guide/)
 
