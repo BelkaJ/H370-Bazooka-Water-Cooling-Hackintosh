@@ -11,6 +11,17 @@ I used EFI and settings were based on ideas of DERBALKON project for MSI B360M h
 MacOS was installed without any problems.
 
 
+|                |                                                   |
+| ------------: | :------------------------------------------------- |
+|         Board | MSI® H360M Bazooka                                |
+|           CPU | Intel® Core™ i5-8500                               |
+|        Memory | Corsair Vengeance® LPX 2 x 8GB (DDR4 2666MHz)      |
+|           SSD | Adata SSD 760p Series M.2 512GB                    |
+|  Graphic Card | Asus Radeon™ RX460 2GB x8                          |
+| Wireless Card | Broadcom® BCM94360 Aliexpress (with Bluetooth 4.0) |
+|       Monitor | Dell Nitro XV272UP Widescreen LCD Monitor          |
+                           |
+
 I adapted the system to my hardware:
 
 - kext Ethernet 1GB Realtec RTL8111
