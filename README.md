@@ -4,6 +4,7 @@
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.8.6-f95)](https://github.com/acidanthera/OpenCorePkg/releases/0.8.6)
 
 I built an open-frame water-cooling wall desktop on a Thermaltake Core P3 case, mainly for decorative and aesthetic purposes.
+<img src="Images/Light2.png" />
 
 I use my computer for everyday work.  I am not a game player and  I do not need much computing power. Therefore, I used some parts of the old Hackintosh/Windows desktop (dualbooting) to upgrade the system to Ventura and the bootloader to OpenCore.
 
