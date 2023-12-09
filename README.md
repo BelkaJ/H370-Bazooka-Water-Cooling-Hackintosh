@@ -13,9 +13,9 @@ MacOS was installed without any problems.
 
 I adapted the system to my hardware:
 
--kext Ethernet 1GB Realtec RTL8111
+- kext Ethernet 1GB Realtec RTL8111
 
--audio codec 87
+- audio codec 87
 
 - PCI entries for the Raedon RX 460 audio decoder, Wifi/BT Broadcom BCM3640, Realtec RTL8111
 
@@ -23,7 +23,7 @@ I adapted the system to my hardware:
 
 - I introduced a boot menu in the config.plist to enable DualBooting. OpenCore starts from USB.
 
-SMBIOS iMac 19.2
+- SMBIOS iMac 19.2
 
 What is not working:
 
