@@ -42,13 +42,19 @@ I adapted the system to my hardware:
 
 - SMBIOS iMac 19.2
 
-What is not working:
+## What is not working:
 
 PowerOff via on/off button front panel - I don't know how to fix it
 The waking up  only works via the on/off front panel - but for me this is not a disadvantage because the fans do not turn on when the keyboard and mouse are hit.
 
 
-What is working:
+ ## What is working:
 Everything apart from above, INCLUDING APPLE MUSIC AND APPLE TV!!!! 
 There are no DRM problems
+
+## Credit
+
+- **Acidanthera**'s [OpenCore Respository](https://github.com/acidanthera/OpenCorePkg)
+- **Derbalkon** [B360M-CoffeeLake-Hackintosh](https://github.com/derbalkon/B360M-CoffeeLake-Hackintosh))
+- **Installation Guide** from [Dortania](https://dortania.github.io/OpenCore-Install-Guide/)
 
