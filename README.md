@@ -6,7 +6,7 @@ I use my computer for everyday work.  I am not a game player and  I do not need 
 
 Windows were installed on the first partition of the disk, and MacOS was installed on the second partition according to Dortania's guide.
 
-I used EFI and settings were based on ideas of DERBAALKON project for MSI B360M https://github.com/derbalkon/B360M-CoffeeLake-Hackintosh (THANK YOU!)
+I used EFI and settings were based on ideas of DERBALKON project for MSI B360M https://github.com/derbalkon/B360M-CoffeeLake-Hackintosh (THANK YOU!)
 
 MacOS was installed without any problems.
 
