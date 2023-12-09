@@ -1,4 +1,7 @@
 # H370 Bazooka Water Cooling Hackintosh
+![It Works For Me](https://img.shields.io/badge/It%20Works-For%20Me™-green)
+[![MacOS Ventura](https://img.shields.io/badge/macOS-13.6-9cf)](https://www.apple.com/macos/ventura/)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.8.6-f95)](https://github.com/acidanthera/OpenCorePkg/releases/0.8.6)
 
 I built an open-frame water-cooling wall desktop on a Thermaltake Core P3 case, mainly for decorative and aesthetic purposes.
 
