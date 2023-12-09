@@ -42,6 +42,8 @@ I adapted the system to my hardware:
 
 - SMBIOS iMac 19.2
 
+  <img src="Images/PCI entries.jpg"  width="500"/>
+
  I mapped the USB following the guide at: https://github.com/corpnewt/USBMap. I did not manage to map the  USB3 port MB to the front panel, as my MB has a damaged slot.
 
 ## What is not working:
