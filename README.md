@@ -54,6 +54,8 @@ The waking up  only works via the on/off front panel - but for me this is not a 
 Everything apart from above, INCLUDING APPLE MUSIC AND APPLE TV!!!! 
 There are no DRM problems
 
+<img src="Images/Light1.jpg"  width="500"/>
+
 ## Credit
 
 - **Acidanthera**'s [OpenCore Respository](https://github.com/acidanthera/OpenCorePkg)
