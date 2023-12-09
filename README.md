@@ -13,6 +13,8 @@ I used EFI and settings were based on ideas of DERBALKON project for MSI B360M h
 
 MacOS was installed without any problems.
 
+<img src="Imagess/Dual Boot.jpg" align="right" width="400" />
+
 
 |                |                                                   |
 | ------------: | :------------------------------------------------- |
