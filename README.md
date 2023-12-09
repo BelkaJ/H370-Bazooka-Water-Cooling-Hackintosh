@@ -12,7 +12,7 @@ I use my computer for everyday work.  I am not a game player and  I do not need 
 
 Windows were installed on the first partition of the disk, and MacOS was installed on the second partition according to Dortania's guide.
 
-I used EFI and settings were based on ideas of DERBALKON project for MSI B360M https://github.com/derbalkon/B360M-CoffeeLake-Hackintosh (THANK YOU!)
+I used EFI and settings were based on ideas of DERBALKON project for MSI B360M  (please refer to the details: https://github.com/derbalkon/B360M-CoffeeLake-Hackintosh THANK YOU!)
 
 MacOS was installed without any problems. I introduced a boot menu in the config.plist to enable DualBooting. OpenCore starts from USB.
 
@@ -26,8 +26,10 @@ MacOS was installed without any problems. I introduced a boot menu in the config
 |        Memory | Corsair 4 x 8GB (DDR4 2666MHz)                     |
 |           SSD | Adata SSD  M.2 256GB                               |
 |  Graphic Card | Asus Radeon™ RX460 2GB x8                          |
-| Wireless Card | Broadcom® BCM94360 AliExpress (with Bluetooth 4.0) |
+| Wireless Card | Broadcom® BCM3640 AliExpress (with Bluetooth 4.0)  |
 |       Monitor | Dell 1600x1200 LCD Monitor                         |
+|       Case    | Thermaltake Core P3 Pro                            |
+|     Radiator  | Thermaltake Pacific CL480                          |
                            
 
 I adapted the system to my hardware:
@@ -38,9 +40,9 @@ I adapted the system to my hardware:
 
 - PCI entries for the Raedon RX 460 audio decoder, Wifi/BT Broadcom BCM3640, Realtec RTL8111
 
-- I mapped the USB following the guide at: https://github.com/corpnewt/USBMap. I did not manage to map the  USB3 port MB to the front panel, as my MB has a damaged slot.
-
 - SMBIOS iMac 19.2
+
+ I mapped the USB following the guide at: https://github.com/corpnewt/USBMap. I did not manage to map the  USB3 port MB to the front panel, as my MB has a damaged slot.
 
 ## What is not working:
 
