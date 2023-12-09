@@ -13,7 +13,7 @@ I used EFI and settings were based on ideas of DERBALKON project for MSI B360M h
 
 MacOS was installed without any problems.
 
-<img src="Images/Dual boot.png" align="center" width="400" />
+<img src="Images/Dual boot.png" />
 
 
 |                |                                                   |
@@ -25,7 +25,7 @@ MacOS was installed without any problems.
 |  Graphic Card | Asus Radeon™ RX460 2GB x8                          |
 | Wireless Card | Broadcom® BCM94360 Aliexpress (with Bluetooth 4.0) |
 |       Monitor | Dell Nitro XV272UP Widescreen LCD Monitor          |
-                           |
+                           
 
 I adapted the system to my hardware:
 
