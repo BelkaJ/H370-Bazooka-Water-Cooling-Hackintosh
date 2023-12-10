@@ -41,7 +41,7 @@ I adapted the system to my hardware:
 ### config.plist 
 - DeviceProperties -> layout.id -> 87 (for audio codec Realtek ALC887 ).
 
-- Other PCI entries for the Raedon RX 460 audio decoder, Wifi/BT Broadcom BCM4360, LAN Realtek RTL8111H, detected by OpenCore Configurator (be careful, this tool seems easy to use, but it can mess up). <img src="Images/PCI entries.jpg"  width="500"/>
+- Other PCI entries for the Raedon RX 460 audio decoder, Wifi/BT Broadcom BCM4360, LAN Realtek RTL8111H, were detected by OpenCore Configurator (be careful, this tool seems easy to use, but it can mess up). <img src="Images/PCI entries.jpg"  width="500"/>
 <img src="Images/PCI.jpg" />
   
 - SMBIOS iMac 19.2
