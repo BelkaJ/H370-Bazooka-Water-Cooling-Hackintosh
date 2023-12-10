@@ -42,9 +42,11 @@ I adapted the system to my hardware:
 - DeviceProperties -> layout.id -> 87 (for audio codec ALC ).
 
 - Other PCI entries for the Raedon RX 460 audio decoder, Wifi/BT Broadcom BCM3640, Realtek RTL8111, detected by OpenCore Configurator (be careful, this tool seems easy to use, but it can mess up). <img src="Images/PCI entries.jpg"  width="500"/>
+<img src="Images/PCI.jpg"  width="500"/>
   
 - SMBIOS iMac 19.2
-
+  
+<img src="Images/iMac.jpg"  width="500"/>
 
 ## What is not working:
 
