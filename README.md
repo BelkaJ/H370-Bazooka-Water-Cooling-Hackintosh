@@ -34,17 +34,17 @@ MacOS was installed without any problems. I introduced a boot menu in the config
 
 I adapted the system to my hardware:
 
-- kext Ethernet 1GB Realtec RTL8111
+### Kexts 
+  - ` RealtekRTL8111.kext ` :Ethernet 1GB [ MiezeRTL8111 ](https://github.com/Mieze/RTL8111_driver_for_OS_X/releases).
+  -  ` USBMap.kext `  :I mapped the USB following the guide at: https://github.com/corpnewt/USBMap. I did not manage to map the  USB3 port MB to the front panel, as my MB has a damaged slot.
+     
+### config.plist 
+- DeviceProperties -> layout.id -> 87 (for audio codec ALC ).
 
-- audio codec 87
-
-- PCI entries for the Raedon RX 460 audio decoder, Wifi/BT Broadcom BCM3640, Realtec RTL8111
-
+- Other PCI entries for the Raedon RX 460 audio decoder, Wifi/BT Broadcom BCM3640, Realtek RTL8111, detected by OpenCore Configurator (be careful, this tool seems easy to use, but it can mess up). <img src="Images/PCI entries.jpg"  width="500"/>
+  
 - SMBIOS iMac 19.2
 
-  <img src="Images/PCI entries.jpg"  width="500"/>
-
- I mapped the USB following the guide at: https://github.com/corpnewt/USBMap. I did not manage to map the  USB3 port MB to the front panel, as my MB has a damaged slot.
 
 ## What is not working:
 
@@ -59,8 +59,9 @@ There are no DRM problems
 <img src="Images/Light1.JPG"  width="500"/>
 
 ## Credit
-
-- **Acidanthera**'s [OpenCore Respository](https://github.com/acidanthera/OpenCorePkg)
 - **Derbalkon** [B360M-CoffeeLake-Hackintosh](https://github.com/derbalkon/B360M-CoffeeLake-Hackintosh)
+- **Acidanthera**'s [OpenCore Respository](https://github.com/acidanthera/OpenCorePkg)
 - **Installation Guide** from [Dortania](https://dortania.github.io/OpenCore-Install-Guide/)
+- **Mieze** [ RealtekRTL8111.kext ](https://github.com/Mieze/RTL8111_driver_for_OS_X/releases)
+- **OpenCore Configurator** [Mackie`s Project] (https://mackie100projects.altervista.org/opencore-configurator/)
 
