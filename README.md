@@ -24,13 +24,13 @@ MacOS was installed without any problems. I introduced a boot menu in the config
 |         Board | MSI® H370M Bazooka                                 |
 |           CPU | Intel® Core™ i5-8500                               |
 |        Memory | Corsair 4 x 8GB (DDR4 2666MHz)                     |
-|           SSD | Adata SSD  M.2 256GB                               |
+|           SSD | Adata SX8200PNP  M.2 256GB                         |
 |      Graphic  | Asus Radeon™ RX460 2GB x8                          |
-|     Wireless  | Broadcom® BCM3640 AliExpress (with Bluetooth 4.0)  |
+|     Wireless  | Broadcom® BCM4360 AliExpress (with Bluetooth 4.0)  |
 |      Monitor  | Dell U2412M 1920 x 1200                            |
 |         Case  | Thermaltake Core P3 Pro                            |
 |     Radiator  | Thermaltake Pacific CL480                          |
-                           
+| Power supply  | SilentiumPC Supremo Gold 550W                      |                          
 
 I adapted the system to my hardware:
 
