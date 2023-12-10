@@ -39,14 +39,14 @@ I adapted the system to my hardware:
   -  ` USBMap.kext `  :I mapped the USB following the guide at: https://github.com/corpnewt/USBMap. I did not manage to map the  USB3 port MB to the front panel, as my MB has a damaged slot.
      
 ### config.plist 
-- DeviceProperties -> layout.id -> 87 (for audio codec ALC ).
+- DeviceProperties -> layout.id -> 87 (for audio codec Realtek ALC887 ).
 
-- Other PCI entries for the Raedon RX 460 audio decoder, Wifi/BT Broadcom BCM3640, Realtek RTL8111, detected by OpenCore Configurator (be careful, this tool seems easy to use, but it can mess up). <img src="Images/PCI entries.jpg"  width="500"/>
-<img src="Images/PCI.jpg"  width="500"/>
+- Other PCI entries for the Raedon RX 460 audio decoder, Wifi/BT Broadcom BCM4360, LAN Realtek RTL8111H, detected by OpenCore Configurator (be careful, this tool seems easy to use, but it can mess up). <img src="Images/PCI entries.jpg"  width="500"/>
+<img src="Images/PCI.jpg" />
   
 - SMBIOS iMac 19.2
   
-<img src="Images/iMac.jpg"  width="500"/>
+<img src="Images/iMac.jpg" />
 
 ## What is not working:
 
@@ -58,7 +58,7 @@ The waking up  only works via the on/off front panel - but for me this is not a 
 Everything apart from above, INCLUDING APPLE MUSIC AND APPLE TV!!!! 
 There are no DRM problems
 
-<img src="Images/Light1.JPG"  width="500"/>
+<img src="Images/Light1.JPG" width="500"/>
 
 ## Credit
 - **Derbalkon** [B360M-CoffeeLake-Hackintosh](https://github.com/derbalkon/B360M-CoffeeLake-Hackintosh)
